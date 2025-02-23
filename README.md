@@ -35,3 +35,9 @@ Here are some ideas to get you started:
 </div>
 
 
+## Experience
+
+- 🎓 Inha University, Computer Science and Engineering (2019.03 - 2024.08)   
+- 💻 Hyundai Softeer Bootcamp 2nd, FE (2023.07 - 2023.08)
+- 🔥 Naver Boostcamp 6th, Web (2024.06 - 2024.12)
+
