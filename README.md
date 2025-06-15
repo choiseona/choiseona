@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 - 🎓 Inha University, Computer Science and Engineering (2019.03 - 2024.08)   
 - 💻 Hyundai Softeer Bootcamp 2nd, FE (2023.07 - 2023.08)
-- 🔥 Naver Boostcamp 9th, Web (2024.06 - 2024.12)
+- 🔥 Naver Boostcamp 9th, Web (2024.06 - 2025.02)
 
